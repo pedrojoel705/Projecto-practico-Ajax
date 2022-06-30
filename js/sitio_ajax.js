@@ -26,4 +26,4 @@ document.addEventListener('click', async (e) => {
   }
 });
 
-document.addEventListener('DOMContentLoaded', getHTML);
+document.addEventListener('DOMContentLoaded', getHTML());
